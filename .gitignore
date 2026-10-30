@@ -1,0 +1,21 @@
+# Личные данные и настройки
+ultrafit-secrets.bat
+ultrafit-config.json
+
+# Сборка и обновления
+**/target/
+ultrafitBot.jar
+.update/
+
+# Диагностика браузера
+error-page.html
+error-page.png
+logs/
+
+# IDE и ОС
+.idea/
+**/.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
